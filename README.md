@@ -15,3 +15,13 @@ in browser type
 > Ip-Server:1880
 
 ![image](https://user-images.githubusercontent.com/7254035/48236048-692c7480-e375-11e8-8f83-6d3fc27a7b62.png)
+
+
+Otro enlace 
+http://www.brainboxes.com/faq/items/installing-and-running-node-red-on-a-windows-pc
+
+3.1 Node.js
+Node-RED uses a runtime engine called Node.js. Node.js is a JavaScript based programming language and must be installed before Node-RED. Node.js can be downloaded from the official Node.js website. When installing Node.js for use with Node-RED it is recommended that you install the 10.XX.X. LTS variant.
+
+NodeJS Download version
+
